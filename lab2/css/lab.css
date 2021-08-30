@@ -1,6 +1,7 @@
 h1{
-  color:
+  color: yellow;
   font-size: 200%
+
 }
 p{
   font-family:"sans-serif";
@@ -9,8 +10,9 @@ p{
 
 }
 #content{
-  background-color:
-  width:
-  
+  background-color: #DF01A5;
+  width: 20px;
+
+
 
 }
