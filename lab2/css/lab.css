@@ -11,7 +11,13 @@ p{
 }
 #content{
   background-color: #DF01A5;
-  width: 20px;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border:solid 1px #444444
+  font-size: 20px;
+  
 
 
 
