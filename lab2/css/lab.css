@@ -1,22 +1,24 @@
 h1{
-  color:white ;
-  font-size: 200%;
+  color: #a71d95;
+  font-size: 300%;
 
 }
 p{
   font-family:"sans-serif";
   text-indent: 20px;
   margin-left: 10px;
+  font-size: 20px;
 
 }
 #content{
-  background-color: #DF01A5;
+  font-size: 20px;
+  background-color: #40c7bb;
   width: 500px;
   min-height: 300px;
-  padding: 10px;
+  padding: 100px;
   margin: 100px;
-  border:solid 1px #444444
-  font-size: 20px;
+  border:solid: 1px #444444
+
 
 
 
