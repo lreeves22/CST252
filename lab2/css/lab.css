@@ -1,12 +1,11 @@
 h1{
   color: #a71d95;
   font-size: 300%;
-
+  margin-left: -40px;
 }
 p{
   font-family:"sans-serif";
-  text-indent: 20px;
-  margin-left: 10px;
+  margin-left: -40px;
   font-size: 20px;
 
 }
@@ -18,9 +17,8 @@ p{
   padding: 100px;
   margin: 100px;
   border:solid: 1px #444444
-
-
-
-
-
+}
+img {
+  width: 400px;
+  height: auto;
 }
