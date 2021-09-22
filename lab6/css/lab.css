@@ -11,14 +11,19 @@ p{
 }
 h2{
   margin-left: -40px;
-  
+
 }
 #content{
   font-size: 20px;
   background-color: #ffdf83;
   width: 1000px;
-  min-height: 300px;
+  min-height: 600px;
   padding: 100px;
   margin: 10px;
   border:solid: 1px #444444
+}
+img
+{
+  padding: 30px;
+
 }
