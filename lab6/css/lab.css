@@ -1,0 +1,24 @@
+h1{
+  color: #5494a9;
+  font-size: 300%;
+  margin-left: -40px;
+}
+p{
+  font-family:"sans-serif";
+  margin-left: -40px;
+  font-size: 20px;
+
+}
+h2{
+  margin-left: -40px;
+  
+}
+#content{
+  font-size: 20px;
+  background-color: #ffdf83;
+  width: 1000px;
+  min-height: 300px;
+  padding: 100px;
+  margin: 10px;
+  border:solid: 1px #444444
+}
