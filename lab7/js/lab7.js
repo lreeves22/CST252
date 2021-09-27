@@ -1,9 +1,17 @@
-*/
+/**
+ * Summary. (use period)
+ *
+ * Description. Lab 7 -Functions
+ * @link   URL
+ * @file   This files defines the MyClass class.
+ * @author Lauren Reeves.
+ * @since  x.x.x
+ */
 
 //sortUsername - a funtion that takes user input and sorts the letters
 // of their name
-function sortUsername() {
-  var userName = window.promtpt ("Hi. PLease tell me your name so I can fix it.");
+function sortUserName() {
+  var userName = window.prompt ("Hi. Please tell me your name so I can fix it.");
   console.log("userName =", userName);
   // split string to array
   var nameArray = userName.split('');
@@ -21,6 +29,5 @@ function sortUsername() {
 }
 
 // output
-document.writeln ("Oh hey, I've fixed your name: ",
-        sortUsername(), "</br>");
-        
+document.writeln("Oh hey, I've fixed your name: ",
+        sortUserName(), "</br>");
