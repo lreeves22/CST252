@@ -12,9 +12,21 @@ p{
 #content{
   font-size: 20px;
   background-color: #ffdf83;
-  width: 500px;
+  width: auto;
   min-height: 300px;
-  padding: 100px;
-  margin: 100px;
-  border:solid: 1px #444444
+  margin: auto;
+  padding: 50px;
+
+
+
 }
+#content {
+    font-size: 20px;
+    padding: 50px;
+    background-color: #ffdf83;
+    border: solid 1px #444444;
+    min-height: 80vh;
+}
+h2 {
+    display: block;
+    margin-left: -40px;
