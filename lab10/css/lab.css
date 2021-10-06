@@ -40,9 +40,9 @@ p{
   font-size: 20px;
   background-color: #ffdf83;
   width: auto;
-  min-height: 300px;
+  min-height: 900px;
   margin: auto;
-  padding: 50px;
+  padding: 100px;
 }
 
 #output{
