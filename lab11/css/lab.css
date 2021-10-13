@@ -1,0 +1,32 @@
+h1{
+  color: #5494a9;
+  font-size: 300%;
+  margin-left: -40px;
+}
+p{
+  font-family:"sans-serif";
+  margin-left: -40px;
+  font-size: 20px;
+
+}
+#content{
+  font-size: 20px;
+  background-color: #ffdf83;
+  width: auto;
+  min-height: 300px;
+  margin: auto;
+  padding: 50px;
+
+
+
+}
+#content {
+    font-size: 20px;
+    padding: 50px;
+    background-color: #ffdf83;
+    border: solid 1px #444444;
+    min-height: 80vh;
+}
+h2 {
+    display: block;
+    margin-left: -40px;
